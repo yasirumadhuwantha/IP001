@@ -1,4 +1,5 @@
-### <a target="_blank" href="https://yasirumadhuwantha.github.io/IP001">Access Here 🡥</a>
+## https://p1.yasiru.top
+## https://yasirumadhuwantha.github.io/IP001
 
 ---
 
