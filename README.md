@@ -1,5 +1,1 @@
-![Screenshot 01](https://github.com/yasirumadhuwantha/IP001/blob/07f7c321a6c28aad2548babd824e61d7ea5f40f3/screenshots/Screenshot%2001.png)
-![Screenshot 02](https://github.com/yasirumadhuwantha/IP001/blob/07f7c321a6c28aad2548babd824e61d7ea5f40f3/screenshots/Screenshot%2002.png)
-![Screenshot 03](https://github.com/yasirumadhuwantha/IP001/blob/07f7c321a6c28aad2548babd824e61d7ea5f40f3/screenshots/Screenshot%2003.png)
-![Screenshot 04](https://github.com/yasirumadhuwantha/IP001/blob/07f7c321a6c28aad2548babd824e61d7ea5f40f3/screenshots/Screenshot%2004.png)
-![Screenshot 05](https://github.com/yasirumadhuwantha/IP001/blob/07f7c321a6c28aad2548babd824e61d7ea5f40f3/screenshots/Screenshot%2005.jpg)
+![Screenshot 01](https://github.com/yasirumadhuwantha/IP001/blob/a9037401f9ae0e6dae12e20b954fdc3e3a0a3d71/screenshots/Full%20Page%20Screenshot%20-%20Desktop.png)
