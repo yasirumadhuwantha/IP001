@@ -1,4 +1,4 @@
-# <h1 style="align: center"> IP001 </h1>
+# IP001
 
 ##  Responsive Digital Resume using Tailwind CSS ( Individual Project 001 )
 
